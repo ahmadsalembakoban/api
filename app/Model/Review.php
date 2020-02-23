@@ -2,7 +2,7 @@
 
 namespace App\Model;
 
-use App\Model\Product;
+use App\Model\Product;  
 use Illuminate\Database\Eloquent\Model;
 
 
